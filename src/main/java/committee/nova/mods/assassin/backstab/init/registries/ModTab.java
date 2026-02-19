@@ -25,7 +25,7 @@ public class ModTab {
 
     public static final RegistryObject<CreativeModeTab> TAB = CREATIVE_MODE_TABS.register("back_stab", () -> CreativeModeTab.builder()
             .withTabsBefore(CreativeModeTabs.COMBAT)
-            .title(Component.translatable("group.assassin_backstab"))
+            .title(Component.translatable("group.backstab"))
             .icon(() -> ModItems.netheritedagger.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
                 ModItems.ITEMS.getEntries().forEach(itemRegistryObject -> {

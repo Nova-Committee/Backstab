@@ -8,7 +8,7 @@
    
     "key": {
         "A": {
-            "tag": "minecraft:planks"
+            "item": "minecraft:diamond"
         },
      	"B": {
             "item": "minecraft:stick"
@@ -16,7 +16,7 @@
     },
    
     "result": {
-        "item": "assassin_backstab:wood_dagger",
+        "item": "backstab:diamond_dagger",
         "count": 1
     }
 }

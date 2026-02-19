@@ -8,7 +8,7 @@
    
     "key": {
         "A": {
-            "item": "minecraft:cobblestone"
+            "item": "minecraft:gold_ingot"
         },
      	"B": {
             "item": "minecraft:stick"
@@ -16,7 +16,7 @@
     },
    
     "result": {
-        "item": "assassin_backstab:stone_dagger",
+        "item": "backstab:gold_dagger",
         "count": 1
     }
 }

@@ -20,7 +20,7 @@ import org.slf4j.Logger;
  */
 public class Const {
 
-    public static final String MOD_ID = "assassin_backstab";
+    public static final String MOD_ID = "backstab";
     public static final Logger LOGGER = LogUtils.getLogger();
 
 

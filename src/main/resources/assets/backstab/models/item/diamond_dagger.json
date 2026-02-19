@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "assassin_backstab:item/netherite_dagger"
+    "layer0": "backstab:item/diamond_dagger"
   }
 }
