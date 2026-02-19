@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "committee.nova.mods.assassin.backstab.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "AssassinBackstab.refmap.json",
+  "refmap": "backstab.refmap.json",
   "mixins": [
   ],
   "client": [
